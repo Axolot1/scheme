@@ -1,5 +1,5 @@
 # scheme
 Scheme Interpreter in Python
 
-Project from ucb's SICP,
-haven't fix the tail call
+Home work from ucb's SICP,
+haven't fix the tail call.
